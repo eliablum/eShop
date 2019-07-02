@@ -15,5 +15,5 @@ Datenbankschema:
 paint.exe file
 
 Arbeitsteilung:
-Elia:
-Nicolai:
+Elia:     html/css
+Nicolai:  database
