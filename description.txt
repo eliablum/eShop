@@ -1,0 +1,16 @@
+Kurzbeschrieb eShop:
+
+
+
+Ablaufsteuerung:
+paint.exe file
+
+Analyseskizzen:
+paint.exe file
+
+Datenbankschema:
+paint.exe file
+
+Arbeitsteilung:
+Elia:
+Nicolai:
